@@ -17,7 +17,7 @@ SkyrimTimer combines a Pomodoro timer with Skyrim-inspired locations, progressio
 
 ## Download
 
-Download the latest Windows or macOS version from the [Releases](../../releases) page.
+Download the latest Windows, Linux or macOS version from the [Releases] page.
 
 ## Disclaimer
 
